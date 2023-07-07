@@ -1,0 +1,131 @@
+body {
+  background-color: #e9edee;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-size: 1.8rem;
+  padding-top: 30px;
+  font-weight: bold;
+  color: white;
+}
+
+h3 {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: white;
+}
+
+h4 {
+  font-size: 1.2rem;
+  padding-right: 20px;
+}
+
+h5 {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #367584;
+}
+
+h6 {
+  display: inline-block;
+  margin-right: 15px;
+  padding-block: 10px;
+  font-size: 0.9rem;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.inline h4,
+h5 {
+  display: inline-block;
+}
+
+.logo1 {
+  background-color: #222f3f;
+}
+
+.logo1 img {
+  width: 100px;
+  margin: 12px 25px;
+}
+
+.logo2 img {
+  width: 140px;
+  height: auto;
+  padding-block: 50px;
+}
+
+.logo2 {
+  background-color: #222f3f;
+}
+
+.link {
+  background-color: #364759;
+  color: white;
+  padding-left: 25px;
+}
+
+.All-Main {
+  margin: 25px;
+}
+
+.Shop-All {
+  background-color: #f56600;
+  color: white;
+  text-align: center;
+  margin: 25px;
+}
+
+.Gift {
+  text-align: center;
+  line-height: 50px;
+  background-image: url(/assets/bg-image.png);
+  background-position: top;
+  padding: 26px;
+  margin-inline: 25px;
+}
+
+.Content-Main {
+  padding: 20px;
+  background-color: white;
+  margin-bottom: 25px;
+}
+
+.Image {
+  width: 100%;
+}
+
+.cont-Image {
+  display: inline-block;
+
+  width: 273px;
+  height: 330px;
+  padding-top: 20px;
+  margin-inline: 8px;
+}
+
+.cont-Image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 25px;
+  box-shadow: 13px 11px 9px -3px rgba(0, 0, 0, 0.2);
+}
+
+.Content-Main2 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.Content-Main2 img {
+  width: 100%;
+  margin-bottom: 4px;
+}
+
+.EndPage {
+  text-align: center;
+}
